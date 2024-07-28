@@ -13,7 +13,7 @@ Currently, two official plugins are available:
 1. clone repository by using 
        git clone https://github.com/4727yesuraju/PET.git
 2. move to root folder enter
-       npm install                 (to install dependencies)
-       npm run dev                 (to start the server)
+      1. npm install                 (to install dependencies)
+      2. npm run dev                 (to start the server)
 
 
