@@ -15,3 +15,6 @@ Currently, two official plugins are available:
 2. move to root folder enter
        npm install                 (to install dependencies)
        npm run dev                 (to start the server)
+
+
+   https://github.com/4727yesuraju/PET/issues/1#issue-2433765998
