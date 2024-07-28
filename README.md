@@ -16,4 +16,6 @@ Currently, two official plugins are available:
       1. npm install                 (to install dependencies)
       2. npm run dev                 (to start the server)
 
+<img width="1280" alt="trend" src="https://github.com/user-attachments/assets/774ed22c-df6f-4a17-ac59-0234f5785c9c">
+
 
